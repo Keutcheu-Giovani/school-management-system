@@ -1,0 +1,8 @@
+1 ComputerScience
+2 InformationTechnology
+3 SoftwareEngineering
+4 DataScience
+5 CyberSecurity
+6 NetworkEngineering
+7 WebDevelopment
+8 ArtificialIntelligence

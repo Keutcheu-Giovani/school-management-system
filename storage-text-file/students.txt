@@ -1,0 +1,10 @@
+B00000010Linda,Linda,Anderson,registered,-1
+B00000009Michael,Michael,Lopez,pending,-1
+B00000008Sarah,Sarah,Martinez,pending,-1
+B00000007David,David,Garcia,pending,-1
+B00000006Emily,Emily,Wilson,pending,-1
+B00000005Charlie,Charlie,Davis,pending,-1
+B00000004Alice,Alice,Brown,pending,-1
+B00000003Bob,Bob,Johnson,pending,-1
+B00000002Jane,Jane,Smith,pending,-1
+B00000001John,John,Doe,pending,-1

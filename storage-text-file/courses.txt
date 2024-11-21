@@ -1,0 +1,10 @@
+101,Introduction to Programming,Dr. Smith,50,0
+102,Data Structures,Prof. Johnson,25,0
+103,Algorithms,Dr. Williams,10,0
+104,Database Management Systems,Ms. Brown,40,0
+105,Operating Systems,Dr. Jones,30,0
+106,Web Development,Prof. Garcia,20,0
+107,Machine Learning,Dr. Martinez,15,0
+108,Software Engineering,Ms. Taylor,25,0
+109,Computer Networks,Prof. Anderson,30,0
+110,Artificial Intelligence,Dr. Miller,20,0
