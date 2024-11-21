@@ -15,8 +15,10 @@ The School Management System is a console-based application designed to facilita
 
 ## Technologies Used
 
-- C programming language
-- Standard libraries for file handling and string manipulation
+- **C Programming Language**
+- **Standard Libraries**: Utilized for file handling and string manipulation.
+- **Data Structures**: Primarily implemented using linked lists for dynamic storage.
+- **Data Storage**: Text files were used to persistently store information.
 
 ## File Structure
 /SchoolManagementSystem  
@@ -71,6 +73,9 @@ Upon launching the application, users will be presented with a menu to choose be
 8. Assign courses to majors
 9. View all majors
 10. Return to the main menu
+
+## Contributing
+This project was developed as a personal practice initiative after completing my first-year engineering programming course. Contributions are highly encouraged! If you have suggestions for improvements or new features, please feel free to fork the repository and submit a pull request. Your feedback and contributions will be greatly appreciated!
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
